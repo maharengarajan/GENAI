@@ -40,3 +40,8 @@ duckduckgo-search
 
 mysql-connector-python
 SQLAlchemy
+
+validators
+youtube-transcript-api
+unstructured
+pytube
