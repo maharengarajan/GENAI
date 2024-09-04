@@ -47,3 +47,4 @@ unstructured
 pytube
 numexpr
 huggingface-hub
+gradio
