@@ -50,3 +50,6 @@ huggingface-hub
 gradio
 openai
 langchain-nvidia-ai-endpoints
+
+# crewai==0.51.1
+# crewai-tools==0.12.0
